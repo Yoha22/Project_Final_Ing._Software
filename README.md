@@ -4,7 +4,7 @@
 
 - <h4>Yohan David Morelo Julio</h4>
 - <h4>Miguel Andrés de Aguas Martinez</h4>
-
+<h4>Usuario admin: admin@aromaticas.com | Clave: admin123</h4>
 ## Índice
 1. [Descripción General](#descripción-general)
 2. [Arquitectura del Backend](#arquitectura-backend)
